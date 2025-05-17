@@ -12,9 +12,9 @@ You'll find all my **work**, some **external links** and **projects** I'm workin
 
 ## Where to start?
 
->1️⃣ **Teachermarks** is my key and favorite project since it's designed by a former teacher for teachers! Its very first version was a simple Excel file, then it evolved into a real web (mobile-friendly app) made with Symfony. It's currently being made on [React](https://github.com/Pandaru62/teachermarks-v2)/[NestJS]() and should be adapted into a real mobile app!
+>1️⃣ [Teachermarks]() is my key and favorite project since it's designed by a former teacher for teachers! Its very first version was a simple Excel file, then it evolved into a real web (mobile-friendly app) made with [Symfony](https://github.com/Pandaru62/teachermarksv1). It's currently being made on [React](https://github.com/Pandaru62/teachermarks-v2)/[NestJS](https://github.com/Pandaru62/teachermarks-v2-back/tree/main) and should be adapted into a real mobile app!
 
->2️⃣ [Prospeo]() is the first real team-work project I contributed to, with three other developers.
+>2️⃣ [Prospeo](https://github.com/Pandaru62/Prospeo_V1) is the first real team-work project I contributed to, with three other developers.
 
 >3️⃣ [Arcadia](https://github.com/Pandaru62/studi-arcadia) is a **PHP**-based web app for a fictional **zoo** and made for academic purposes. It's the first project I've started from scratch and actually finished.
 
