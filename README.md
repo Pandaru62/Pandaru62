@@ -7,12 +7,14 @@
 
 > 🧑‍🏫 Former teacher ➡️ Software Engineer
 
+> [See my PORTFOLIO](https://www.notion.so/loris-buchelet/Portfolio-de-Loris-Buchelet-1f7e93037fd580d08713ffba35f2336b?pvs=4)
+
 You'll find all my **work**, some **external links** and **projects** I'm working on. *Enjoy your visit!*
 
 
 ## Where to start?
 
->1️⃣ [Teachermarks]() is my key and favorite project since it's designed by a former teacher for teachers! Its very first version was a simple Excel file, then it evolved into a real web (mobile-friendly app) made with [Symfony](https://github.com/Pandaru62/teachermarksv1). It's currently being made on [React](https://github.com/Pandaru62/teachermarks-v2)/[NestJS](https://github.com/Pandaru62/teachermarks-v2-back/tree/main) and should be adapted into a real mobile app!
+>1️⃣ **Teachermarks** is my key and favorite project since it's designed by a former teacher for teachers! Its very first version was a simple Excel file, then it evolved into a real web (mobile-friendly app) made with [Symfony](https://github.com/Pandaru62/teachermarksv1). It's currently being made on [React](https://github.com/Pandaru62/teachermarks-v2)/[NestJS](https://github.com/Pandaru62/teachermarks-v2-back/tree/main) and should be adapted into a real mobile app!
 
 >2️⃣ [Prospeo](https://github.com/Pandaru62/Prospeo_V1) is the first real team-work project I contributed to, with three other developers.
 
